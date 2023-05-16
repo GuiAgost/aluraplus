@@ -18,14 +18,16 @@ Este é o projeto alura-plus desenvolvido durante curso de HTML e CSS: praticand
 
 ##
 
-### 	🚧 Projeto em desenvolvimento 🚧
+### 	🚀 Projeto Concluído!!
+
+<p align="center"><img width="400"  alt="Aluraplus" src="https://github.com/GuiAgost/aluraplus/assets/76624588/460ef80a-da02-4d33-a4f0-8b9fc2a11bef"></p>
 
 ##
 
 🔗 Link do projeto
 
-* Link gerado através do github pages: https://guiagost.github.io/frontendAlura/aluraplus/
-* Ling gerado através do deploy na Vercel: https://frontendalura.vercel.app/
+* Link gerado através do github pages: https://guiagost.github.io/aluraplus/
+* Ling gerado através do deploy na Vercel: https://aluraplus-green-pi.vercel.app/
 
 
 
