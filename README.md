@@ -1,4 +1,4 @@
-<p align="center"><img width="600"  alt="resultadoAula1" src="https://github.com/GuiAgost/front-end-alura/assets/76624588/e3d7e0b3-c7b6-42b4-8569-52c237a77ffb"></p>
+<p align="center"><img width="600"  alt="resultadoAula1" src="https://github.com/GuiAgost/aluraplus/assets/76624588/c4673aad-12bc-487c-9330-07852d4f098d"></p>
 
 ##
 
