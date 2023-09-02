@@ -9,7 +9,7 @@ Este é o projeto alura-plus desenvolvido durante curso de HTML e CSS: praticand
 | :sparkles: Nome        | **Aluraplus**
 | :label: Tecnologias | html, css
 | :rocket: URL         | https://aluraplus-green-pi.vercel.app/, https://guiagost.github.io/aluraplus/
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :fire: Desafio     | https://cursos.alura.com.br/course/html-css-praticando-html-css
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 <!-- ![](https://github.com/GuiAgost/aluraplus/assets/76624588/460ef80a-da02-4d33-a4f0-8b9fc2a11bef#vitrinedev) -->
