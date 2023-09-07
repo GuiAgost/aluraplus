@@ -1,4 +1,4 @@
-<p align="center"><img width="600"  alt="resultadoAula1" src="https://github.com/GuiAgost/aluraplus/assets/76624588/c4673aad-12bc-487c-9330-07852d4f098d"></p>
+<!--<p align="center"><img width="600"  alt="resultadoAula1" src="https://github.com/GuiAgost/aluraplus/assets/76624588/c4673aad-12bc-487c-9330-07852d4f098d"></p>-->
 
 # Aluraplus
 
@@ -7,7 +7,7 @@ Este é o projeto alura-plus desenvolvido durante curso de HTML e CSS: praticand
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Aluraplus**
-| :label: Tecnologias | html, css
+| :label: Tecnologias | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" hedight="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30" hedight="30"/>
 | :rocket: URL         | https://aluraplus-green-pi.vercel.app/, https://guiagost.github.io/aluraplus/
 | :fire: Desafio     | https://cursos.alura.com.br/course/html-css-praticando-html-css
 
